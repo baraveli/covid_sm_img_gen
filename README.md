@@ -9,9 +9,10 @@ images are generated using data in templates.json
 <img src="demo/vacc_sm.png" width="500">
 
 ### vaccine instagram story
+<img src="demo/vacc_im.png" width="500">
+
 
 # To generate Vaccine data images 
-<img src="demo/vacc_im.png" width="500">
 
 
 ```

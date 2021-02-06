@@ -1,0 +1,242 @@
+{
+    "vaccine_ig": {
+        "name": "vaccine_ig",
+        "path": "templates/vaccine_ig_story.png",
+        "elements": [
+            "date",
+            "today",
+            "male_area",
+            "atoll",
+            "total",
+            "total_male",
+            "total_atolls"
+        ],
+        "elements_data": {
+            "date": {
+                "font": "fonts/replica_mono.otf",
+                "cords": [
+                    1020,
+                    1880
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 220
+            },
+            "today": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    920,
+                    3200
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            },
+            "male_area": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    920,
+                    4790
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            },
+            "atoll": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    920,
+                    6380
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            },
+            "total": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2700,
+                    3200
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            },
+            "total_male": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2700,
+                    4790
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            },
+            "total_atolls": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2700,
+                    6380
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 520
+            }
+        }
+    },
+    "vaccine_sm": {
+        "name": "vaccine_sm",
+        "path": "templates/vaccine_sm.png",
+        "elements": [
+            "date",
+            "today",
+            "male_area",
+            "atoll",
+            "total",
+            "total_male",
+            "total_atolls",
+            "vacc_cen_male",
+            "vacc_cen_atoll"
+        ],
+        "elements_data": {
+            "date": {
+                "font": "fonts/replica_mono.otf",
+                "cords": [
+                    605,
+                    945
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 220
+            },
+            "today": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2400,
+                    1900
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "male_area": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4400,
+                    1900
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "atoll": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6200,
+                    1900
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2400,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_male": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4400,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_atolls": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6200,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "vacc_cen_male": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    1970,
+                    4140
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 150
+            },
+            "vacc_cen_atoll": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4800,
+                    4160
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 130
+            }
+        }
+    }
+}

@@ -6,12 +6,12 @@ images are generated using data in templates.json
 
 # Generated Image example
 ### vaccine sm
-![vaccine sm](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_sm.png){ width=500px }
+![vaccine sm](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_sm.png){ width=50% height=50%  }
 
 ### vaccine instagram story
 
 # To generate Vaccine data images 
-![vaccine ig](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_im.png){ width=500px }
+![vaccine ig](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_im.png){ width=50% height=50%  }
 
 ```
 from HeocTools import genVaccineImages

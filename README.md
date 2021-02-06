@@ -3,24 +3,15 @@ Quick image generation tools written to aid in operations at HEOC
 Usage examples can be found in usage.py
 images are generated using data in templates.json
 
-img[alt="vaccine_ig"] { 
-  max-width:  500px; 
-  display: block;
-}
-img[alt="vaccine_sm"] { 
-  max-width:  500px; 
-  display: block;
-}
-
 
 # Generated Image example
 ### vaccine sm
-![vaccine sm]("https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_sm.png")
+![vaccine sm](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_sm.png){ width=500px }
 
 ### vaccine instagram story
 
 # To generate Vaccine data images 
-![vaccine ig]("https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_im.png")
+![vaccine ig](https://github.com/baraveli/covid_sm_img_gen/raw/main/demo/vacc_im.png){ width=500px }
 
 ```
 from HeocTools import genVaccineImages

@@ -43,5 +43,5 @@ developed once the API end points are available
 
 
 ### TODO 
-generate images for covid cases
-automatically generate when data from api changes and post 
+* generate images for covid cases
+* automatically generate when data from api changes and post 

@@ -4,15 +4,16 @@ Usage examples can be found in usage.py
 images are generated using data in templates.json
 
 
-
 # Generated Image example
 ### vaccine sm
-![vaccine sm](demo/vaccine_sm.png)
+<img src="demo/vacc_sm.png" width="500">
 
 ### vaccine instagram story
+<img src="demo/vacc_im.png" width="500">
+
 
 # To generate Vaccine data images 
-![vaccine ig](demo/vaccine_ig.png)
+
 
 ```
 from HeocTools import genVaccineImages
@@ -43,5 +44,5 @@ developed once the API end points are available
 
 
 ### TODO 
-generate images for covid cases
-automatically generate when data from api changes and post 
+* generate images for covid cases
+* automatically generate when data from api changes and post 

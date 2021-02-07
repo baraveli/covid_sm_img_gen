@@ -258,7 +258,7 @@
             "date": {
                 "font": "fonts/replica_mono.otf",
                 "cords": [
-                    605,
+                    530,
                     945
                 ],
                 "fill": [
@@ -336,7 +336,7 @@
             "total_samples": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    2680,
+                    2320,
                     3000
                 ],
                 "fill": [
@@ -349,7 +349,7 @@
             "total_recoveries": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    4680,
+                    4480,
                     3000
                 ],
                 "fill": [
@@ -362,7 +362,7 @@
             "total_deaths": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    6420,
+                    6590,
                     3000
                 ],
                 "fill": [
@@ -408,7 +408,7 @@
             "date": {
                 "font": "fonts/replica_mono.otf",
                 "cords": [
-                    605,
+                    530,
                     945
                 ],
                 "fill": [
@@ -486,7 +486,7 @@
             "total_samples": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    2680,
+                    2320,
                     3000
                 ],
                 "fill": [
@@ -499,7 +499,7 @@
             "total_recoveries": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    4680,
+                    4480,
                     3000
                 ],
                 "fill": [
@@ -512,7 +512,7 @@
             "total_deaths": {
                 "font": "fonts/ReplicaProBold.otf",
                 "cords": [
-                    6420,
+                    6590,
                     3000
                 ],
                 "fill": [

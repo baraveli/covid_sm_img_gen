@@ -14,6 +14,7 @@ class ImageGenerator():
         input_as_set = set(inpaint_data.keys())
         #checks if correct data is provided
         if (name in self.template_data) and (input_as_set == set(self.template_data[name]["elements"])):
+            print("raech")
             img = Image.open(self.template_data[name]["path"])
             #draw each element in template
             for e in self.template_data[name]["elements"]:

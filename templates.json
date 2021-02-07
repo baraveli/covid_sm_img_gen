@@ -238,5 +238,306 @@
                 "font_size": 130
             }
         }
+    },
+    "covid_normal": {
+        "name": "covid_normal",
+        "path": "templates/covid_normal.png",
+        "elements": [
+            "date",
+            "new_cases",
+            "samples",
+            "in_hospitals",
+            "active_cases",
+            "total_confirmed",
+            "total_samples",
+            "total_recoveries",
+            "total_deaths",
+            "positive_deaths"
+        ],
+        "elements_data": {
+            "date": {
+                "font": "fonts/replica_mono.otf",
+                "cords": [
+                    605,
+                    945
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 220
+            },
+            "new_cases": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    780,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "samples": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2680,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "in_hospitals": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4820,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "active_cases": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6420,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_confirmed": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    480,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_samples": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2680,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_recoveries": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4680,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_deaths": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6420,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "positive_deaths": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2490,
+                    4160
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 140
+            }
+
+        }
+        
+    },
+    "covid_alert": {
+        "name": "covid_alert",
+        "path": "templates/covid_alert.png",
+        "elements": [
+            "date",
+            "new_cases",
+            "samples",
+            "in_hospitals",
+            "active_cases",
+            "total_confirmed",
+            "total_samples",
+            "total_recoveries",
+            "total_deaths",
+            "positive_deaths"
+        ],
+        "elements_data": {
+            "date": {
+                "font": "fonts/replica_mono.otf",
+                "cords": [
+                    605,
+                    945
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 220
+            },
+            "new_cases": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    780,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "samples": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2680,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "in_hospitals": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4820,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "active_cases": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6420,
+                    1800
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_confirmed": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    480,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_samples": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2680,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_recoveries": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    4680,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "total_deaths": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    6420,
+                    3000
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 440
+            },
+            "positive_deaths": {
+                "font": "fonts/ReplicaProBold.otf",
+                "cords": [
+                    2490,
+                    4160
+                ],
+                "fill": [
+                    5,
+                    24,
+                    44
+                ],
+                "font_size": 140
+            }
+
+        }
+        
     }
+
 }
